@@ -13,7 +13,7 @@ tags: parallels 虚拟化
 
 2. 修改 windows11 配置
 
-![修改 windows11 配置](image-1.png)
+![修改 windows11 配置 ](image-1.png)
 
 ![硬件 > CPU与内存 ](image-2.png)
 
