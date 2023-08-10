@@ -9,5 +9,5 @@
 
 #### install cactus
 ```
-git clone https://github.com/probberechtshexo-theme-cactus.git themes/cactus
+git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
 ```
