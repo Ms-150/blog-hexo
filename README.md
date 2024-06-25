@@ -1,6 +1,7 @@
 # blog
 
-[blog](https://15033790379.github.io/blog/)
+[blog](https://ms-150.github.io/blog/)
+
 
 ## [hexo](https://hexo.io/)
 
